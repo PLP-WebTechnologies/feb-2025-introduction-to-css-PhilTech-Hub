@@ -1,0 +1,40 @@
+/* Element selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* ID selector */
+  #main-header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #00bcd4;
+  }
+  
+  /* Class selector */
+  .highlight {
+    color: #00bcd4;
+    font-size: 2em;
+  }
+  
+  /* Another class selector */
+  .description {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 2px dashed #aaa;
+  }
+  
+  /* Image styling using ID */
+  #profile-pic {
+    width: 200px;
+    border: 4px solid #00bcd4;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
